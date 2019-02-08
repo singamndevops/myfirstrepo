@@ -8,14 +8,10 @@ fsdajfasdfdslkf
 sdf
 sdfs
 fsdf
-34
-<<<<<<< HEAD
-5396
+346
 356
-=======
 537
 356
->>>>>>> dev_2.1.3
 54
 3
 78

@@ -3,6 +3,8 @@ adding new line
 
 addinsg second line:wq
 
+adding third line
+
 
 adding next lines
 
